@@ -1,2 +1,4 @@
 This is my first file
 git stash 1
+
+Diff test4
